@@ -1,1 +1,2 @@
-# MY-WORK
+# Energy Acess Tracker (2019)
+GlobalEnergyInsight is a Python-based project designed to increase awareness about the types and quantities of energy accessible around the world. By providing comprehensive data visualization and analysis, this project helps users understand global energy distribution, identify disparities in energy access, and promote informed discussions on sustainable energy solutions. Whether you're an educator, policymaker, or simply an energy enthusiast, GlobalEnergyInsight offers valuable insights into the state of global energy resources.
